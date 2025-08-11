@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm KishanGopale</h1>
 <h3 align="center">Java Full-Stack Developer | Building Scalable, Clean & User-Focused Solutions</h3>
 
